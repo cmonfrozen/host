@@ -1,0 +1,1 @@
+<script data-cfasync='false' id='cid0020000124898768415' src='//st.chatango.com/js/gz/emb.js' style='width: 250px;height: 350px;'>{"handle":"pv-save","arch":"js","styles":{"a":"000000","b":100,"c":"FFFFFF","d":"FFFFFF","k":"000000","l":"000000","m":"000000","n":"FFFFFF","p":"10","q":"000000","r":100,"fwtickm":1}}</script>
